@@ -10,7 +10,7 @@
 }
 
 /* Hide the images by default */
-.mySlides-p {
+.mySlides-p, .mySlides-p2 {
   display: none;
 }
 img {vertical-align: middle;}
@@ -44,7 +44,7 @@ img {vertical-align: middle;}
 
 /* Caption text */
 .text-p {
-  color: #f2f2f2;
+  color: red;
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
@@ -55,7 +55,8 @@ img {vertical-align: middle;}
 
 /* Number text (1/3 etc) */
 .numbertext-p {
-  color: #f2f2f2;
+  color: red;
+  font-weight: bold;
   font-size: 12px;
   padding: 8px 12px;
   position: absolute;
