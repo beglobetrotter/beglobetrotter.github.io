@@ -10,7 +10,7 @@
 }
 
 /* Hide the images by default */
-.mySlides-p, .mySlides-p2 {
+.mySlides-p, .mySlides-p2, .mySlides-p3 {
   display: none;
 }
 img {vertical-align: middle;}
